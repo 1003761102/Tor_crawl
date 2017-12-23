@@ -14,7 +14,7 @@ Tor是互联网上用于保护您隐私最有力的工具之一，但是时至�
 
 2.	Vidalia Bridge Bundle
 
-点击下载（http://www.download82.com/get/download/windows/vidalia/），安装好之后，选择中文简体。然后进入设定>网络>勾选我使用代理服务器（地址：127.0.0.1，端口：1080）。
+[点击下载](http://www.download82.com/get/download/windows/vidalia/).安装好之后，选择中文简体。然后进入设定>网络>勾选我使用代理服务器（地址：127.0.0.1，端口：1080）。
 
 点击高级>使用TCP连接（127.0.0.1:9150）
 
@@ -23,7 +23,7 @@ Tor是互联网上用于保护您隐私最有力的工具之一，但是时至�
 二、	python使用Tor代理
 ---
 
-代码见tor.py。http://api.ipify.org/?format=json为ip检查网站，运行结果如下所示。
+代码见tor.py。[http://api.ipify.org/?format=json](http://api.ipify.org/?format=json)为ip检查网站，运行结果如下所示。
 
 Check ip address*********************************************
 
